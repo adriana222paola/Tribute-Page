@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tribute-Page
 # Las Seis Esposas de Enrique VIII
 
