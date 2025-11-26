@@ -1,0 +1,133 @@
+/* By: Adriana Perez Date:8/30/2025 */
+body {
+  font-family: Georgia, serif;
+  background-color: #c4b7a6;
+  padding: 15px;
+  margin: 0;
+  }
+
+#title {
+    padding: 50px;
+    background-color: rgb(126, 95, 68);
+}
+
+#main {
+  padding: 5px;
+  text-align: center;
+}
+
+p {
+    text-indent: 50px;
+    line-height: 1.4;
+}
+
+#song {
+    padding: 10px 0px 35px 0px;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color:black;
+}
+
+a:hover {
+    color:rgb(86, 38, 18);
+}
+
+#intro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 30px auto;
+  max-width: 900px;
+  padding: 20px;
+}
+
+#img-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+#img-caption {
+  margin-top: 10px;
+  font-style: italic;
+  text-align: center;
+}
+
+#infoRey {
+  text-align: justify;
+  width: 100%;
+  max-width: 700px;
+}
+
+#img-Wives {
+   background-color:  #e6e2d3;
+   margin: 20px 30px;
+   padding: 20px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   box-sizing: border-box; 
+}
+
+#imageWives {
+  box-sizing: border-box; 
+  max-width: 100%;
+  height: auto;
+  display: block;
+  justify-content: center;
+}
+
+#tribute-info {
+  margin: 20px 0;
+  padding: 10px;
+  margin-top: 5%;
+}
+
+#tribute-info > h2 {
+  text-align: center;
+}
+
+#tribute-info > ul > li{
+  text-align: left;
+  text-indent: 50px;
+  margin: 20px 30%;
+  line-height: 1.5;
+}
+
+li {
+    list-style: none;
+}
+
+h4 {
+    text-align: center;
+}
+
+#link {
+  font-weight: bold;
+}
+
+#tribute-link {
+  cursor: pointer;
+}
+
+#referencias {
+  text-align: center;
+  background-color: rgb(126, 95, 68);
+  padding: 10px 90px; 
+}
+
+#apa7 {
+  text-align: justify;
+}
